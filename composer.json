@@ -1,7 +1,7 @@
 {
 	"name": "mishak/wrm-jquery",
 	"description": "jQuery for Nette projects using Web Resource Management",
-	"keywords": [ "nette", "bootstrap", "web resource management"],
+	"keywords": [ "nette", "jquery", "web resource management"],
 	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
 	"authors": [
 		{
